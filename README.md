@@ -1,18 +1,19 @@
 # Hi there 👋
 
-I'm a passionate self-taught programmer with years of experience. Currently studying **Cybersecurity** at [Universidad Fidelitas](https://www.ufidelitas.ac.cr/) in San José, Costa Rica. Enthusiastic about the challenging nature of this field and eager to keep learning.
+I'm a passionate self-taught programmer with years of experience. Currently pursuing a **Bachelor's Degree in Cybersecurity Engineering** at [Universidad Fidelitas](https://www.ufidelitas.ac.cr/) in San José, Costa Rica. Enthusiastic about the challenging nature of this field and eager to keep learning.
 
 ## 🚀 Skills
 
-- **Programming Languages**: Delphi, Java, Python
+- **Programming Languages**: Delphi (from Delphi 6 to Delphi 12), Java, Python
 - **Scripting**: Bash
 - **Databases and SQL**: PL/SQL, Oracle, SQL Server, MySQL
-- **Tools and Technologies**: Burp Suite, Metasploit
+- **Tools and Technologies**: Burp Suite, Metasploit, Wireshark
 
 ## 🌱 Currently Learning
 
+- Penetration testing methodologies and preparing comprehensive reports
+- Exploring advanced cryptography and digital forensics
 - Getting familiar with the Common Vulnerability Scoring System (CVSS) Calculator
-- Preparing penetration testing reports
 
 ## 📫 How to Reach Me
 
@@ -20,4 +21,4 @@ I'm a passionate self-taught programmer with years of experience. Currently stud
 
 ## ⚡ Fun Fact
 
-- I love playing chess, listening to music, and enjoying board games with my family.
+- I’m an avid chess player, music enthusiast, and love spending quality time playing board games with my family.
